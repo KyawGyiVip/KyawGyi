@@ -9,7 +9,7 @@
   {
     "thumb": "https://bestasianwomen.com/wp-content/uploads/2020/04/eastasia3.jpg",
     "type": "Korea VIP",
-    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipkorea/vipkorea",
+    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipkorea/vipkorea_1.json",
     "is_": "vip",
     "all": "0"
   },

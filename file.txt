@@ -2,56 +2,56 @@
   {
     "thumb": "https://m.media-amazon.com/images/I/51wQe4CfR3L.jpg",
     "type": "JAV VIP",
-    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipjapan/vipjapan",
+    "url": "https://kyawgyivip.github.io/KyawGyi/vip_japan.json",
     "is_": "vip",
     "all": "0"
   },
   {
     "thumb": "https://bestasianwomen.com/wp-content/uploads/2020/04/eastasia3.jpg",
     "type": "Korea VIP",
-    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipkorea/vipkorea_1.json",
+    "url": "https://kyawgyivip.github.io/KyawGyi/vip_korea.json",
     "is_": "vip",
     "all": "0"
   },
   {
     "thumb": "https://as2.ftcdn.net/v2/jpg/01/12/74/55/1000_F_112745596_kd6k9zX3xcAztDT6UjcrUPCYd1nbkbzK.jpg",
     "type": "USA VIP",
-    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipusa/vipusa",
+    "url": "https://kyawgyivip.github.io/KyawGyi/vip_usa.json",
     "is_": "vip",
     "all": "0"
   },
   {
     "thumb": "https://womenandtravel.net/wp-content/uploads/2021/06/hot-chinese-girls-768x655.jpg",
     "type": "China VIP",
-    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/vipchina/vipchina",
+    "url": "https://kyawgyivip.github.io/KyawGyi/vip_china.json",
     "is_": "vip",
     "all": "0"
   },
   {
     "thumb": "https://i.pinimg.com/736x/e1/5c/48/e15c488285ae6e9a0c80e942824c699a.jpg",
     "type": "Anime ",
-    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/anime/anime",
+    "url": "https://kyawgyivip.github.io/KyawGyi/anime.json",
     "is_": "",
     "all": "0"
   },
   {
     "thumb": "https://www.shutterstock.com/image-photo/young-woman-sexy-japanese-anime-600nw-1159400092.jpg",
     "type": "Japan Free ",
-    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/japan/japan",
+    "url": "https://kyawgyivip.github.io/KyawGyi/free_japan.json",
     "is_": "",
     "all": "0"
   },
   {
     "thumb": "https://image.made-in-china.com/202f0j00heHVCYrqObgQ/Hand-Free-Lingerie-Breast-Feeding-Sexy-Ladies-Underwear-Nursing-Bras.webp",
     "type": "Korea Free ",
-    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/korea/korea",
+    "url": "https://kyawgyivip.github.io/KyawGyi/free_korea.json",
     "is_": "",
     "all": "0"
   },
   {
     "thumb": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcRbI1nhy_sel5_CyqoqABYIbiMUmgYajLZ-kQ\u0026usqp\u003dCAU",
     "type": "USA Free ",
-    "url": "https://github.com/MgKaungMyatDEC/darklandapi/raw/main/apis/usa/usa",
+    "url": "https://kyawgyivip.github.io/KyawGyi/free_usa.json",
     "is_": "",
     "all": "0"
   }

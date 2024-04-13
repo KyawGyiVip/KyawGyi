@@ -1,0 +1,99 @@
+[
+  
+   {
+      "image":"https://i.imgur.com/AU011VJ.png",
+      "title":"May Noe [အပြာကား]",
+      "native_support":true,
+      "label":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/maynoe.com",
+      "link":"https://maynoe.com/"
+   },
+ { "image":"https://img.freepik.com/free-photo/portrait-young-female-model-with-perfect-skin-posing-fashion-isolated-white-background_1150-63234.jpg?size=626&ext=jpg&ga=GA1.1.1838274543.1709459695&semt=ais", "title":"XBurma", "native_support":true, "label":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/category/xburma.category", "link":"https://www.xburma.com/latest-updates/" },
+   {
+      "image":"https://i.imgur.com/RgqAE64.png",
+      "title":"Eporner ( VPNလိုသည်) ",
+      "native_support":true,
+      "label":"eporner",
+      "link":"https://www.eporner.com/best-videos/"
+   },
+   {
+      "image":"https://i.imgur.com/L3WnkpA.png",
+      "title":"Xvideos ( VPNလိုသည်)\nThe Hot Videos  ",
+      "label":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/xvideos.category",
+      "native_support":true,
+      "link":"https://www.xvideos.com/best/2022-07"
+   },
+   {
+      "image":"https://i.imgur.com/wFsZeH9.png",
+      "title":"Xnxx \n( VPNလိုသည်)ဖောင်းဒိုင်းကြမ်းများ ",
+      "label":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/xnxx.category",
+      "native_support":true,
+      "link":"https://www.xnxx.com/todays-selection"
+   },
+   {
+      "image":"https://i.imgur.com/VaZsdxL.png",
+      "title":"Redtube",
+      "native_support":true,
+      "label":"",
+      "link":"https://www.redtube.com/redtube/japanese"
+   },
+   {
+      "image":"https://i.imgur.com/uUEQ4TN.png",
+      "title":"Myanmar Love Story\nမြန်မာ အပြာကားနှင့်စာတန်းထိုး",
+      "label":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/category/myanmarsexstory.category",
+      "native_support":true,
+      "link":"https://myanmarsexstory.com/category/japan22/"
+   },
+ 
+   {
+      "image":"https://imgur.com/ANZrN6h.png",
+      "title":"Mmporn\n မြန်မာပွန်း ",
+      "native_support":true,
+      "label":"mmporn",
+      "link":"https://mmporns.com/"
+   },
+
+
+   {
+      "image":"https://img.freepik.com/free-photo/woman-bed_144627-41930.jpg?size=626&ext=jpg&ga=GA1.1.1838274543.1709459695&semt=ais",
+      "title":"MM HD Hub",
+      "native_support":true,
+      "label":"",
+      "link":"https://mmhdhub.com/archives/category/myanmar"
+   },
+   {
+      "image":"https://img.freepik.com/free-photo/young-beautiful-woman-posing-white-wall_1153-6571.jpg?size=626&ext=jpg&ga=GA1.2.1838274543.1709459695&semt=ais",
+      "title":"SaMusar",
+      "native_support":true,
+      "label":"",
+      "link":"https://www.samusar.com/latest-updates/"
+   },
+   {
+      "image":"https://img.freepik.com/premium-photo/young-beautiful-brunette-woman-white-top-blue-jeans-black-background_947073-15378.jpg?size=626&ext=jpg&ga=GA1.2.1838274543.1709459695&semt=ais",
+      "title":"Founddie",
+      "native_support":true,
+      "label":"",
+      "link":"https://founddie.com/archives/category/homemade/"
+   },
+   {
+      "image":"https://img.freepik.com/premium-photo/high-fashion-perfect-slim-fit-body-beautiful-face-young-elegant-asian-woman-sexy-black-dress-dark-grey-isolated-background-plastic-surgery-cosmetology_555986-2458.jpg?size=626&ext=jpg&ga=GA1.2.1838274543.1709459695&semt=ais",
+      "title":"Loemal",
+      "native_support":true,
+      "label":"",
+      "link":"https://loemal.com/"
+   },
+      {
+      "image":"https://i.imgur.com/sc4LPM1.png",
+      "title":"မြမြကားအစုံ( VPN လိုသည်)",
+      "label":"",
+      "native_support":false,
+      "link":"https://www.pornhub.com/model/myanmar_porn"
+   },
+   {
+      "image":"https://i.imgur.com/sbFDDpz.png",
+      "title":"Dark Tv (VPNလိုသည်)\n Mm subtitle Japanese",
+      "label":"darktv2",
+      "native_support":false,
+      "link":"https://darktv45.blogspot.com/?m=1"
+   }
+
+]

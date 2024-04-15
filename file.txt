@@ -70,4 +70,5 @@
     "download": "supports",
     "mediafire":"false",
     "all": "32"
+}
 ]

@@ -62,5 +62,12 @@
     "download": "supports",
     "mediafire":"true",
     "all": "52"
-  }
+  },
+    {
+    "thumb": "https://kyawgyivip.github.io/KyawGyi/bby.jpeg",
+    "type": "Baby",
+    "url": "https://kyawgyivip.github.io/KyawGyi/Baby.json",
+    "download": "supports",
+    "mediafire":"false",
+    "all": "32"
 ]

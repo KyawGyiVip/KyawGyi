@@ -4,6 +4,7 @@
     "type": "JAV VIP",
     "url": "https://kyawgyivip.github.io/KyawGyi/vip_japan.json",
     "download": "support",
+    "mediafire":"true",
     "all": "2520"
   },
   {
@@ -11,6 +12,7 @@
     "type": "Korea VIP",
     "url": "https://kyawgyivip.github.io/KyawGyi/vip_korea.json",
     "download": "support",
+    "mediafire":"true",
     "all": "402"
   },
   {
@@ -18,6 +20,7 @@
     "type": "USA VIP",
     "url": "https://kyawgyivip.github.io/KyawGyi/vip_usa.json",
     "download": "support",
+    "mediafire":"true",
     "all": "737"
   },
   {
@@ -25,6 +28,7 @@
     "type": "China VIP",
     "url": "https://kyawgyivip.github.io/KyawGyi/vip_china.json",
     "download": "support",
+    "mediafire":"true",
     "all": "451"
   },
   {
@@ -32,6 +36,7 @@
     "type": "Anime ",
     "url": "https://kyawgyivip.github.io/KyawGyi/anime.json",
     "download": "supports",
+    "mediafire":"true",
     "all": "6"
   },
   {
@@ -39,6 +44,7 @@
     "type": "Japan Free ",
     "url": "https://kyawgyivip.github.io/KyawGyi/free_japan.json",
     "download": "supports",
+    "mediafire":"true",
     "all": "2402"
   },
   {
@@ -46,6 +52,7 @@
     "type": "Korea Free ",
     "url": "https://kyawgyivip.github.io/KyawGyi/free_korea.json",
     "download": "supports",
+    "mediafire":"true",
     "all": "433"
   },
   {
@@ -53,6 +60,7 @@
     "type": "USA Free ",
     "url": "https://kyawgyivip.github.io/KyawGyi/free_usa.json",
     "download": "supports",
+    "mediafire":"true",
     "all": "52"
   }
 ]
